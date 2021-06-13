@@ -1,4 +1,4 @@
--!<img src="https://user-images.githubusercontent.com/65482619/121568032-db3d2c80-ca3c-11eb-8e50-2ebf2f860d7a.gif" with="400" height="200">
+- <img src="https://user-images.githubusercontent.com/65482619/121568032-db3d2c80-ca3c-11eb-8e50-2ebf2f860d7a.gif" with="600" height="200">
 - 👋 Hi, I’m Rudra
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C++,python
